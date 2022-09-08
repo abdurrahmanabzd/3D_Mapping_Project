@@ -1,4 +1,4 @@
-# my_robot
+# Localization Project
 
-This is the "My Robot" package of the "Ball Chasing Robot" project.
-This shall be used with "Ball_Chaser" package.
+The robot will navigate its way using the move_base ROS package and then localize itself with Adaptive Monte Carlo Localization algorithm. 
+***NOTE: Make sure to name the package "my_robot" after cloning the files. The code written will be looking for "my_robot" files not "Localization_Project". 

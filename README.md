@@ -20,6 +20,8 @@ Once open, add some windows to get a better view of the relevant information:
 - View -> Constraint View
 - View -> Graph View
 
+(Check the screenshot file: "Screenshot of RTAB-Map Database Viewer.png")
+
 *localization.launch* file is for using the map generated for localization. 
 
 ***NOTE: The package name is originally "my_robot". Make sure to name the package "my_robot" instead of "3D_Mapping_Project" after cloning the files before executing catkin_make. Otherwise, errors may occur.***
